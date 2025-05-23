@@ -72,14 +72,11 @@ pip install torch==1.9.1+cu111 torchvision==0.10.1+cu111 torchaudio==0.9.1 -f ht
 
 pip install matplotlib scikit-image opencv-python numpy einops math natsort tqdm lpips time tensorboardX
 ```
-
-
-```
 ### 🛠️ Training, Testing and Evaluation
 
 ### Train
-The training code will be released after the paper is accepted.
 You should change the path to yours in the `Train.py` file.  Then run the following script to test the trained model:
+
 
 ```sh
 python train.py
