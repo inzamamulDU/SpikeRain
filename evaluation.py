@@ -55,7 +55,7 @@ def main():
             im_Gen_lpips = lpips.im2tensor(
                 lpips.load_image(os.path.join(args.generated_images_path, base_name + suffix + '.png')))
         else:
-            print("不支持的图像类型")
+            print("not supported")
 
         # im_GT_lpips = lpips.im2tensor(lpips.load_image(img_path)).to(device)
         im_GT_lpips = lpips.im2tensor(lpips.load_image(img_path))
