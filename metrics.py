@@ -59,6 +59,6 @@ def calculate_metrics_from_folders(gt_folder, modified_folder, resize_dim=(512, 
 
 
 # Example usage
-dehazed_image = "/home/tanvir/projects/img_restoration/sota/ESDNet/output/"
-ground_truth = "/home/tanvir/datasets/img_restoration/detraining/rain1400/test/target"
+dehazed_image = "/home/name/projects/img_restoration/sota/spikerain/output/"
+ground_truth = "/home/name/datasets/img_restoration/detraining/rain1400/test/target"
 calculate_metrics_from_folders(ground_truth, dehazed_image)
