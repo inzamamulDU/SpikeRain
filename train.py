@@ -28,9 +28,9 @@ if __name__ == "__main__":
     start_epoch = 1
 
     parser = argparse.ArgumentParser(description='Image Deraining')
-    parser.add_argument('--train_dir', default="/home/tanvir/datasets/img_restoration/deraining/rain1400/train/", type=str,
+    parser.add_argument('--train_dir', default="/home/name/datasets/img_restoration/deraining/rain1400/train/", type=str,
                         help='Directory of train images')
-    parser.add_argument('--val_dir', default="/home/tanvir/datasets/img_restoration/deraining/rain1400/test/", type=str,
+    parser.add_argument('--val_dir', default="/home/name/datasets/img_restoration/deraining/rain1400/test/", type=str,
                         help='Directory of validation images')
     parser.add_argument('--model_save_dir', default='./checkpoints/', type=str, help='Path to save weights')
     parser.add_argument('--pretrain_weights', default='./checkpoints/model_best.pth', type=str,
@@ -101,7 +101,7 @@ if __name__ == "__main__":
     # scheduler.step()
     RESUME = False
     Pretrain = False
-    model_pre_dir = 'checkpoints/ESDNet/models/DID-Data'
+    model_pre_dir = 'checkpoints/spikerain/models/DID-Data'
     ######### Pretrain ###########
     if Pretrain:
         utils.load_checkpoint(model_restoration, model_pre_dir)
