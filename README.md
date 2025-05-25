@@ -96,10 +96,7 @@ You should change the path to yours in the `dataset_load.py` file.  Then run the
 ```sh
 python evaluation.py
 ```
-It is recommended that you can download the visual deraining results and retest the quantitative results on your own device and environment.
 
 
 
-## 👍 Acknowledgment
 
-This code is based on the [Restormer](https://github.com/swz30/Restormer), [spikingjelly](https://github.com/fangwei123456/spikingjelly) and [C2PNet](https://github.com/YuZheng9/C2PNet). Thanks for their awesome work.
