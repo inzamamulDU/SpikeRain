@@ -2,7 +2,7 @@
  
 # SpikeRain: Towards Energy-Efficient Single Image Deraining with Spiking Neural Networks
 ### 【UNDER REVIEW CIKM'2025🔥】 
-
+<hr>
 </div>
 
 > SpikeRain: Towards Energy-Efficient Single Image Deraining with Spiking Neural Networks
