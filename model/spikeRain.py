@@ -300,16 +300,3 @@ class SpikeRainFactory:
             T=self.T
         ).to(self.device)
 
-
-# factory = SpikeRainFactory(T=4)
-# SpikeRain = factory.get_model('S')
-
-
-
-#x = torch.rand(1, 3, 128, 128).cuda()
-#functional.set_step_mode(model, step_mode='m')
-#functional.set_backend(model, backend='torch')
-#print(model(x).shape)
-#flops, params = profile(model, inputs=(x,))
-#print('FLOPs = ' + str(flops / 1000 ** 3) + 'G')
-#print('Params = ' + str(params / 1000 ** 2) + 'M')
