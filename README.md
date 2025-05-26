@@ -19,9 +19,8 @@ With the growing deployment of vision systems on edge devices, there is a pressi
   ** Sep 15, 2023:** The [visual results on Sate 1K](https://pan.baidu.com/s/1dToHnHI9GVaHQ3-I6OIbpA?pwd=rs1k) and [real-world dataset RSSD300](https://pan.baidu.com/s/1OZUWj8eo6EmP5Rh8DE1mrA?pwd=8ad5) are updated.-->
 
 
-## Preparation
 
-## Datasets
+## Datasets Used
 <table>
 <thead>
   <tr>
