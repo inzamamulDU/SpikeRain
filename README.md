@@ -30,6 +30,8 @@ With the growing deployment of vision systems on edge devices, there is a pressi
     <th>Rain200H</th>
     <th>Rain1200</th>
     <th>RW_Rain</th>
+   <th>Rain1400</th>
+   <th>SPA+</th>
   </tr>
 </thead>
  <!---
