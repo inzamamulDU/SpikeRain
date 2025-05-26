@@ -39,10 +39,10 @@ With the growing deployment of vision systems on edge devices, there is a pressi
   <tr>
     <td>Data Type</td>
     <td>Synthetic</td>
-    <td align="center"> <td>Synthetic</td> </td>
-    <td align="center"> <td>Synthetic</td> </td>
-    <td align="center"> <td>Synthetic</td> </td>
-    <td align="center"> <td>Synthetic</td> </td>
+    <td align="center">Synthetic</td>
+    <td align="center">Synthetic</td>
+    <td align="center">Synthetic</td>
+    <td align="center">Synthetic</td>
   </tr>
 </tbody>
 
