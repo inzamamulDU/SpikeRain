@@ -34,18 +34,18 @@ With the growing deployment of vision systems on edge devices, there is a pressi
    <th>SPA+</th>
   </tr>
 </thead>
- <!---
+
 <tbody>
   <tr>
-    <td>Baidu Cloud</td>
-    <td> <a href="https://pan.baidu.com/s/1mrXshB3Y0qO205aRR_lZaw?pwd=9ojl 提取码：9ojl">Download</a> </td>
-    <td align="center"> <a href="https://pan.baidu.com/s/1wzvNW7UgLsSZbLd_lFfpyA?pwd=s6v0 提取码：s6v0 ">Download</a> </td>
-    <td> <a href="https://pan.baidu.com/s/1pPF4CL7rvKRVvkVkJ0C8RA?pwd=k2iv 提取码：k2iv">Download</a> </td>
-    <td> <a href="https://pan.baidu.com/s/1RlzbJa8XtCBUHXrJfxqiIQ?pwd=ajnz 提取码：ajnz">Download</a> </td>
-    <td> <a href="https://pan.baidu.com/s/1GM85dkgxf8CyuwlhOV4e8Q?pwd=23vf 提取码：23vf">Download</a> </td>
+    <td>Data Type</td>
+    <td>Synthetic</td>
+    <td align="center"> <td>Synthetic</td> </td>
+    <td align="center"> <td>Synthetic</td> </td>
+    <td align="center"> <td>Synthetic</td> </td>
+    <td align="center"> <td>Synthetic</td> </td>
   </tr>
 </tbody>
- -->
+
 </table>
 
 
