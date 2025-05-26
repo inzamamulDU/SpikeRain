@@ -1,23 +1,12 @@
-<!---
-# Learning A Spiking Neural Network for Efficient Image Deraining
-[![GoogleDrive](https://img.shields.io/badge/Data-GoogleDrive-brightgreen)](https://drive.google.com/drive/folders/1KRR_L276nviPT9JFPL9zfBiZVKJO6dM1?usp=drive_link)
-[![BaiduPan](https://img.shields.io/badge/Data-BaiduPan-brightgreen)](https://pan.baidu.com/s/1TlgoslD-hIzySDL8l6gekw?pwd=pu2t)
---->
 <div align="center">
 
 # 【UNDER REVIEW CIKM'2025🔥】SpikeRain: Towards Energy-Efficient Single Image Deraining with Spiking Neural Networks
 </div>
 
 > SpikeRain: Towards Energy-Efficient Single Image Deraining with Spiking Neural Networks
-> 
->  
->
-> 
->
-> Primary contact: 
 
 > **Abstract:** 
-With the growing deployment of vision systems on edge devices, there is a pressing need for energy-efficient, temporally-aware image deraining models. To address this need, we propose SpikeRain, a spiking neural network (SNN) architecture that achieves competitive deraining performance with significantly lower computational overhead than conventional artificial neural network (ANN) based methods. Unlike such traditional ANN-based models that rely on dense activations and high memory requirements, SpikeRain exploits the event-driven and sparse firing nature of spiking neurons to perform efficient temporal integration and contextual learning across multiple time steps. SpikeRain hinges on an encoder-decoder architecture enhanced with spiking-native modules. A Dense Spiking Residual Block (DSRB) facilitates efficient temporal integration and deep feature reuse, improving detail preservation. On the other hand, a Multi-Dimensional Spiking Attention (MDSA) module captures intricate dependencies across temporal, channel, and spatial dimensions, effectively suppressing rain streaks. Finally, an Adaptive Residual Feature Enhancement (ARFE) module applies gated attention to selectively refine salient features, boosting the perceptual quality of the restored output. Extensive experiments on synthetic and real-world deraining benchmarks show that SpikeRain consistently achieves very competitive PSNR and SSIM scores compared to existing deraining methods, while requiring significantly fewer parameters, FLOPs, and energy. SpikeRain reduces the number of parameters by approximately 40\% and FLOPs by 88.98\% while maintaining a comparable energy level to the existing SNN-based deraining method, owing to its spike-driven architectural efficiency. Overall, results expose the strong potential of SNNs for energy-efficient single image deraining, making SpikeRain a compelling solution for real-time image restoration on neuromorphic devices and low-power processing platforms.
+With the growing deployment of vision systems on edge devices, there is a pressing need for energy-efficient, temporally-aware image deraining models. To address this need, we propose SpikeRain, a spiking neural network (SNN) architecture that achieves competitive deraining performance with significantly lower computational overhead than conventional artificial neural network (ANN) based methods. Unlike such traditional ANN-based models that rely on dense activations and high memory requirements, SpikeRain exploits the event-driven and sparse firing nature of spiking neurons to perform efficient temporal integration and contextual learning across multiple time steps. SpikeRain hinges on an encoder-decoder architecture enhanced with spiking-native modules. A Dense Spiking Residual Block (DSRB) facilitates efficient temporal integration and deep feature reuse, improving detail preservation. On the other hand, a Multi-Dimensional Spiking Attention (MDSA) module captures intricate dependencies across temporal, channel, and spatial dimensions, effectively suppressing rain streaks. Finally, an Adaptive Residual Feature Enhancement (ARFE) module applies gated attention to selectively refine salient features, boosting the perceptual quality of the restored output. Extensive experiments on synthetic and real-world deraining benchmarks show that SpikeRain consistently achieves very competitive PSNR and SSIM scores compared to existing deraining methods, while requiring significantly fewer parameters, FLOPs, and energy. SpikeRain reduces the number of parameters by approximately 40% and FLOPs by 88.96% while maintaining a comparable energy level to the existing SNN-based deraining method, owing to its spike-driven architectural efficiency. Overall, results expose the strong potential of SNNs for energy-efficient single image deraining, making SpikeRain a compelling solution for real-time image restoration on neuromorphic devices and low-power processing platforms.
 
 
 <!---
@@ -43,6 +32,7 @@ With the growing deployment of vision systems on edge devices, there is a pressi
     <th>RW_Rain</th>
   </tr>
 </thead>
+ <!---
 <tbody>
   <tr>
     <td>Baidu Cloud</td>
@@ -53,6 +43,7 @@ With the growing deployment of vision systems on edge devices, there is a pressi
     <td> <a href="https://pan.baidu.com/s/1GM85dkgxf8CyuwlhOV4e8Q?pwd=23vf 提取码：23vf">Download</a> </td>
   </tr>
 </tbody>
+ -->
 </table>
 
 
