@@ -42,7 +42,9 @@ With the growing deployment of vision systems on edge devices, there is a pressi
     <td align="center">Synthetic</td>
     <td align="center">Synthetic</td>
     <td align="center">Synthetic</td>
-    <td align="center">Synthetic</td>
+    <td align="center">Real</td>
+   <td align="center">Synthetic</td>
+    <td align="center">Real</td>
   </tr>
 </tbody>
 
