@@ -57,8 +57,8 @@ We test the code on PyTorch 1.9.1 + CUDA 11.1 + cuDNN 8.0.5.
 
 1. Create a new conda environment
 ```
-conda create -n ESDNet python=3.8
-conda activate ESDNet 
+conda create -n spikerain python=3.8
+conda activate spikerain 
 ```
 
 2. Install dependencies
